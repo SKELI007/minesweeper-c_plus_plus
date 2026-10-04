@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skeli\\source\\repos\\brand new design c# wpf\\minesweeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95C9756E-4A9D-4868-8125-01782916D4D1}|minesweeper\\minesweeper.vcxproj|C:\\Users\\skeli\\source\\repos\\brand new design c# wpf\\minesweeper\\minesweeper\\minesweeper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95C9756E-4A9D-4868-8125-01782916D4D1}|minesweeper\\minesweeper.vcxproj|solutionrelative:minesweeper\\minesweeper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "minesweeper.cpp",
+              "DocumentMoniker": "C:\\Users\\skeli\\source\\repos\\brand new design c# wpf\\minesweeper\\minesweeper\\minesweeper.cpp",
+              "RelativeDocumentMoniker": "minesweeper\\minesweeper.cpp",
+              "ToolTip": "C:\\Users\\skeli\\source\\repos\\brand new design c# wpf\\minesweeper\\minesweeper\\minesweeper.cpp",
+              "RelativeToolTip": "minesweeper\\minesweeper.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-04T19:14:35.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

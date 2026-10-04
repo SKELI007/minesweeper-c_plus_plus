@@ -1,0 +1,4 @@
+﻿  minesweeper.cpp
+C:\Users\skeli\source\repos\brand new design c# wpf\minesweeper\minesweeper\minesweeper.cpp(79,19): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\skeli\source\repos\brand new design c# wpf\minesweeper\minesweeper\minesweeper.cpp(125,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  minesweeper.vcxproj -> C:\Users\skeli\source\repos\brand new design c# wpf\minesweeper\x64\Debug\minesweeper.exe
